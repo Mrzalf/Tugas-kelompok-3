@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+#main{
+	width: 100%;
+	height: 117vh;
+  background-color: #ffffff;
+  padding: 20px;
+  color: #000000;
+  font-weight: 100;  
+}
+#input{
+  width: 50%;
+  background: #c78902;
+  padding: 20px;
+  margin:0 auto;
+  height: 105vh;
+  box-shadow: 2px 20px 50px #000;
+}
+table tr td{
+  padding: 10px;
+  width: 75%;
+  height: 25px;
+}
+.button {
+  background-color: #594c1e;
+  border: none;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
